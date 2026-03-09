@@ -1,5 +1,6 @@
-# eks-2048-game
-Kubernetes Project: 2048 game deployed on AWS EKS with Fargate and ALB Ingress
+# EKS-2048-game
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 📋 Overview
 This project deploys the classic **2048 game** on **Amazon EKS** using **Fargate** profiles and an **ALB Ingress Controller** for external access.
