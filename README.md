@@ -98,8 +98,8 @@ eksctl delete cluster --name=demo-cluster
 - Helm for package management </br>
 
 ## 📖 Documentation
-- <a href="alb-controller-add.md">alb-controller-add.md</a> - ALB controller installation steps
-- <a href="2048-app-deploy-ingress.md">2048-app-deploy-ingress.md</a> - App deployment guide
+- <a href="documentation/alb-controller-add.md">alb-controller-add.md</a> - ALB controller installation steps
+- <a href="documentation/2048-app-deploy-ingress.md">2048-app-deploy-ingress.md</a> - App deployment guide
 
 ### Credits
 Built while following Abhishek Veeramalla's AWS series.
